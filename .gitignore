@@ -37,6 +37,7 @@ ui_*.h
 .qt/
 
 .vscode/
+*.user
 
 
 build/
